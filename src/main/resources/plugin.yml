@@ -1,0 +1,4 @@
+name: GameRules
+version: '1.0-SNAPSHOT'
+main: lol.stompy.gamerules.GameRules
+api-version: '1.21'
